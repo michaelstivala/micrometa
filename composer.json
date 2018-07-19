@@ -33,7 +33,7 @@
         "jkphl/rdfa-lite-microdata": "^0.4.3",
         "league/uri": "4.*",
         "mf2/mf2": "^0.3.1",
-        "ml/json-ld": "^1.0",
+        "michaelstivala/json-ld": "^1.0",
         "monolog/monolog": "^1.22",
         "psr/cache": "^1.0",
         "psr/log": "^1.0",
